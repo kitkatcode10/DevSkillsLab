@@ -1,0 +1,51 @@
+h1 {background-color: lightgreen;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    padding: 30px; 
+}
+
+body {
+    display: flex;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+}
+
+
+div {
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+    margin: 50px 50px 100px 200px; 
+}
+
+#addSkills {
+    background-color: white; 
+    border: 3px solid lightgreen; 
+    color: lightgreen;
+    font-size: 14px; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+input {
+    background-color: white; 
+    border: 3px solid lightgreen; 
+    color: lightgreen; 
+    font-size: 14px; 
+    text-align: center;
+}
+
+ul {
+    text-align: left;
+    font-size: 12px;
+}
+
+li {
+    color: orange;
+}
+
+#delete {
+    background-color: red;
+    color: white;
+    border: white; 
+    text-align: center; 
+}
